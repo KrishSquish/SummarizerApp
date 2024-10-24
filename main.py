@@ -2,7 +2,6 @@ import pandas as pd
 import tkinter as tk
 from tkinter import filedialog as fd
 from tkinter import ttk
-from tkinter.messagebox import showinfo
 
 root = tk.Tk()
 root.geometry('500x500')
